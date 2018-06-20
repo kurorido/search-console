@@ -1,0 +1,19 @@
+{
+    "name": "rolichung/search_console",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roli",
+            "email": "kuroridoplayer@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.30",
+        "google/apiclient": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "RoliChung\\SearchConsole\\": "src/"
+        }
+    }
+}
